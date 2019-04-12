@@ -1,5 +1,5 @@
 //hahhahuhu
-//hyyy
+//hy
 
 #include <stdio.h>
 #include <stdlib.h>
